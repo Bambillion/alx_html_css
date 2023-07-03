@@ -1,0 +1,1 @@
+This is an advanced html project that implements from scratch a webpage with just plain old html
