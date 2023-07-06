@@ -15,4 +15,11 @@ article{
     flex: 2;
     overflow-y: auto;
     background-color: #fff;
+    border: #000 solid 1px;
+    color: blue;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
 }
